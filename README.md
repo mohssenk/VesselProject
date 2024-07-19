@@ -52,6 +52,9 @@ Run reconstructing_processing_script.ipynb to reconstruct the masks from the pre
 
 ## Results
 The model achieves an accuracy of approximately 79% when comparing the original masks to the reconstructed masks.
+The following is an example result:
+![WhatsApp Image 2024-07-16 at 17 45 35_a8dc3c2e](https://github.com/user-attachments/assets/56aea650-e60e-479c-8caa-9140075e8c85)
+
 
 ## Credits
 This project was inspired by the paper: https://arxiv.org/pdf/1911.09915.
