@@ -20,13 +20,13 @@ Performance Evaluation: Achieves approximately 79% accuracy in vessel segmentati
 
 ## Project Sections (can be viewed through Google Collab)
 
-Part 1 ![https://drive.google.com/file/d/1VMovHh_UP_c6gzeyY7ccjO_zObRFsySk/view?usp=sharing]
+![Part 1](https://drive.google.com/file/d/1VMovHh_UP_c6gzeyY7ccjO_zObRFsySk/view?usp=sharing)
 
-Part 2 ![https://drive.google.com/file/d/1BwMzLDErF3z0Uac-7mNmGYKC3cW1anj4/view?usp=sharing]
+![Part 2](https://drive.google.com/file/d/1BwMzLDErF3z0Uac-7mNmGYKC3cW1anj4/view?usp=sharing)
 
-Part 3 ![https://drive.google.com/file/d/1o7xiHB1q73OHhJY8LWF8fRgsLucOCZwV/view?usp=sharing]
+![Part 3](https://drive.google.com/file/d/1o7xiHB1q73OHhJY8LWF8fRgsLucOCZwV/view?usp=sharing)
 
-Part 4 ![https://drive.google.com/file/d/1mCgdzgRPaw19VW8F83vSjl2W9cgOs22G/view?usp=sharing]
+![Part 4](https://drive.google.com/file/d/1mCgdzgRPaw19VW8F83vSjl2W9cgOs22G/view?usp=sharing)
 
 ## Results
 The model achieves an accuracy of approximately 79% when comparing the original masks to the reconstructed masks.
