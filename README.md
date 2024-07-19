@@ -15,6 +15,7 @@ Performance Evaluation: Achieves approximately 79% accuracy in vessel segmentati
 - Testing Data: 20 images.
 - Training Crops: 24674 crops.
 - Testing Crops: 3380 crops.
+
 Due to space, the images and their processed counterparts will be uploaded, but none of the crops will be uploaded, but can be easily generated. There are 169 crops per image.
 
 ## Project Structure
