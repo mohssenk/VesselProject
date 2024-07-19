@@ -7,7 +7,9 @@ The scripts are designed to be run in Google Collab.
 
 ## Features
 Retinal Image Segmentation: Utilizes U-net for segmenting blood vessels in retinal images.
+
 Data Augmentation: Horizontal augmentation applied to increase training data.
+
 Performance Evaluation: Achieves approximately 79% accuracy in vessel segmentation.
 
 ## Dataset
@@ -63,4 +65,4 @@ The following is an example result:
 
 
 ## Credits
-This project was inspired by the paper: https://arxiv.org/pdf/1911.09915.
+This project was based off the paper: https://arxiv.org/pdf/1911.09915.
