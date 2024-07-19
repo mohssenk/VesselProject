@@ -1,4 +1,4 @@
-# Vessel Project
+# Retinal Vessel Segmentation using Deep Learning
 
 ## Project Overview
 The Vessel Project aims to segment retinal blood vessels using a U-net model trained on images from the CHASE, HRF, and DRIVE datasets. The primary objective is to outline all the vessels in retinal images and create corresponding masks.
