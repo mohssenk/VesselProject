@@ -15,20 +15,20 @@ Testing Data: 20 images.
 ## Project Structure
 Folders:
   RetinalImages/
-    Test/: Contains original and masked test images.
+-     Test/: Contains original and masked test images.
       Masks/
       Images/
-    Training/: Contains original and masked training images.
+-     Training/: Contains original and masked training images.
       Masks/
       Images/
-    Processed/: Contains processed images.
+-     Processed/: Contains processed images.
       Test/
       Train/
-    Processed_cropped/: Contains cropped processed images.
+-     Processed_cropped/: Contains cropped processed images.
       Test/
       Train/
-    Predicted_masks/: Contains predicted masks of the crops from the 20 test images.
-    Reconstructed_masks/: Contains reconstructed masks from the predicted masks.
+-     Predicted_masks/: Contains predicted masks of the crops from the 20 test images.
+-     Reconstructed_masks/: Contains reconstructed masks from the predicted masks.
 
 ## Scripts
 - processing_script.ipynb: Initial image processing.
