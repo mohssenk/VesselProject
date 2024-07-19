@@ -35,6 +35,14 @@ The model achieves an accuracy of approximately 79% when comparing the original 
 The following is an example result:
 ![WhatsApp Image 2024-07-16 at 17 45 35_a8dc3c2e](https://github.com/user-attachments/assets/56aea650-e60e-479c-8caa-9140075e8c85)
 
+# Data
+- [RetinalImages](https://drive.google.com/drive/u/0/folders/1Rpvv94i4UVRSjpQh8Oz4z9uUspljQzC0)/
+  - Test/: Contains original and masked test images.
+  - Training/: Contains original and masked training images.
+  - Processed/: Contains processed images.
+  - Processed_cropped/: Contains cropped processed images.
+  - Predicted_masks/: Contains predicted masks of the crops from the 20 test images.
+  - Reconstructed_masks/: Contains reconstructed masks from the predicted masks.
 
 ## Credits
 This project was based off the paper: https://arxiv.org/pdf/1911.09915.
