@@ -12,6 +12,8 @@ Data Augmentation: Horizontal augmentation applied to increase training data.
 
 Performance Evaluation: Achieves approximately 79% accuracy in vessel segmentation.
 
+U-net can be viewed ![here](https://drive.google.com/file/d/1ZoxYWVA33N-eV8x7h9zJHn3BUdWdQYUn/view?usp=sharing)
+
 ## Dataset
 - Training Data: 73 images (augmented to 146).
 - Testing Data: 20 images.
