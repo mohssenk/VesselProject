@@ -16,17 +16,17 @@ Testing Data: 20 images.
 Folders:
   RetinalImages/
 -     Test/: Contains original and masked test images.
-      Masks/
-      Images/
+        Masks/
+        Images/
 -     Training/: Contains original and masked training images.
-      Masks/
-      Images/
+        Masks/
+        Images/
 -     Processed/: Contains processed images.
-      Test/
-      Train/
+        Test/
+        Train/
 -     Processed_cropped/: Contains cropped processed images.
-      Test/
-      Train/
+        Test/
+        Train/
 -     Predicted_masks/: Contains predicted masks of the crops from the 20 test images.
 -     Reconstructed_masks/: Contains reconstructed masks from the predicted masks.
 
