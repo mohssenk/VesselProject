@@ -18,45 +18,15 @@ Performance Evaluation: Achieves approximately 79% accuracy in vessel segmentati
 - Training Crops: 24674 crops.
 - Testing Crops: 3380 crops.
 
-Due to space, the images and their processed counterparts will be uploaded, but none of the crops will be uploaded, but can be easily generated. There are 169 crops per image.
+## Project Sections (can be viewed through Google Collab)
 
-## Project Structure
-Folders:
-  RetinalImages/
--     Test/: Contains original and masked test images.
-        Masks/
-        Images/
--     Training/: Contains original and masked training images.
-        Masks/
-        Images/
--     Processed/: Contains processed images.
-        Test/
-        Train/
--     Processed_cropped/: Contains cropped processed images.
-        Test/
-        Train/
--     Predicted_masks/: Contains predicted masks of the crops from the 20 test images.
--     Reconstructed_masks/: Contains reconstructed masks from the predicted masks.
+Part 1 ![https://drive.google.com/file/d/1VMovHh_UP_c6gzeyY7ccjO_zObRFsySk/view?usp=sharing]
 
-## Scripts
-- processing_script.ipynb: Initial image processing.
-- cropping_processing_script.ipynb: Cropping processed images.
-- Model.py: Defines the U-net model.
-- model_train.ipynb: Trains the U-net model and saves the best model as unet_best_model.h5.
-- reconstructing_processing_script.ipynb: Reconstructs masks from predicted crops.
+Part 2 ![https://drive.google.com/file/d/1BwMzLDErF3z0Uac-7mNmGYKC3cW1anj4/view?usp=sharing]
 
-## Usage
-Processing Images:
-Run processing_script.ipynb to preprocess the images.
+Part 3 ![https://drive.google.com/file/d/1o7xiHB1q73OHhJY8LWF8fRgsLucOCZwV/view?usp=sharing]
 
-Cropping Images:
-Run cropping_processing_script.ipynb to crop the processed images.
-
-Training the Model:
-Run model_train.ipynb to train the U-net model. The best model will be saved as unet_best_model.h5.
-
-Reconstructing Masks:
-Run reconstructing_processing_script.ipynb to reconstruct the masks from the predicted crops.
+Part 4 ![https://drive.google.com/file/d/1mCgdzgRPaw19VW8F83vSjl2W9cgOs22G/view?usp=sharing]
 
 ## Results
 The model achieves an accuracy of approximately 79% when comparing the original masks to the reconstructed masks.
