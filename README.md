@@ -22,13 +22,13 @@ U-net can be viewed [here](https://drive.google.com/file/d/1ZoxYWVA33N-eV8x7h9zJ
 
 ## Project Sections (can be viewed through Google Collab)
 
-[Part 1](https://drive.google.com/file/d/1VMovHh_UP_c6gzeyY7ccjO_zObRFsySk/view?usp=sharing)
+[Part 1](https://colab.research.google.com/drive/1VMovHh_UP_c6gzeyY7ccjO_zObRFsySk#scrollTo=3sa4X_XXOnw0)
 
-[Part 2](https://drive.google.com/file/d/1BwMzLDErF3z0Uac-7mNmGYKC3cW1anj4/view?usp=sharing)
+[Part 2](https://colab.research.google.com/drive/1BwMzLDErF3z0Uac-7mNmGYKC3cW1anj4#scrollTo=9gVFZD1sQ-0U)
 
-[Part 3](https://drive.google.com/file/d/1o7xiHB1q73OHhJY8LWF8fRgsLucOCZwV/view?usp=sharing)
+[Part 3](https://colab.research.google.com/drive/1o7xiHB1q73OHhJY8LWF8fRgsLucOCZwV#scrollTo=3AJA1vFl7-2S)
 
-[Part 4](https://drive.google.com/file/d/1mCgdzgRPaw19VW8F83vSjl2W9cgOs22G/view?usp=sharing)
+[Part 4](https://colab.research.google.com/drive/1mCgdzgRPaw19VW8F83vSjl2W9cgOs22G#scrollTo=rBjJ_1DZN4Dy)
 
 ## Results
 The model achieves an accuracy of approximately 79% when comparing the original masks to the reconstructed masks.
