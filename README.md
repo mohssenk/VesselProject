@@ -3,6 +3,8 @@
 ## Project Overview
 The Vessel Project aims to segment retinal blood vessels using a U-net model trained on images from the CHASE, HRF, and DRIVE datasets. The primary objective is to outline all the vessels in retinal images and create corresponding masks.
 
+The scripts are designed to be run in Google Collab.
+
 ## Features
 Retinal Image Segmentation: Utilizes U-net for segmenting blood vessels in retinal images.
 Data Augmentation: Horizontal augmentation applied to increase training data.
@@ -11,6 +13,8 @@ Performance Evaluation: Achieves approximately 79% accuracy in vessel segmentati
 ## Dataset
 Training Data: 73 images (augmented to 146).
 Testing Data: 20 images.
+Training
+Due to space, the images and their processed counterparts will be uploaded, but none of the crops will be uploaded, but can be easily generated.
 
 ## Project Structure
 Folders:
