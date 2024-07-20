@@ -22,6 +22,8 @@ U-net can be viewed [here](https://drive.google.com/file/d/1ZoxYWVA33N-eV8x7h9zJ
 
 ## Project Sections (can be viewed through Google Collab)
 
+All of the following notebooks can be downloaded directly from the repository.
+
 [Part 1: Initial processing](https://colab.research.google.com/drive/1VMovHh_UP_c6gzeyY7ccjO_zObRFsySk#scrollTo=3sa4X_XXOnw0)
 
 [Part 2: Creating the dataset using images](https://colab.research.google.com/drive/1BwMzLDErF3z0Uac-7mNmGYKC3cW1anj4#scrollTo=9gVFZD1sQ-0U)
